@@ -1,0 +1,32 @@
+Nasi Putih
+1200
+2
+Beras
+Air
+
+Nasi Goreng
+2000
+5
+Beras
+Air
+Bawang Putih
+Lada
+Kecap
+
+Nasi Kangkung
+2000
+2
+Beras
+Kangkung
+
+Lada Bawang
+1000
+2
+Lada
+Bawang Putih
+
+Telur Asin
+1000
+2
+Telur
+Garam
